@@ -1,9 +1,9 @@
 Run the Project Process:
 Step-by-Step Guidelines
-1. Clone the Repository: Clone the project repository to your local development environment using the following command:
+1. Clone the Repository: Open command prompt as administrator and paste the command given below:
 [git clone https://github.com/Asif-748/TourX.git]
 
-2. Run the command as adminstrator:
+2. Run the command:
 [npm install]
 
 3. If you encounter any issues, try using the force flag:
