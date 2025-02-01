@@ -1,12 +1,16 @@
 Run the Project Process:
 Step-by-Step Guidelines
-Clone the Repository: Clone the project repository to your local development environment using the following command:
-git clone https://github.com/Raisul-24/practice-project-with-react.git
-Run the command: Open your termonal and run this command:
+1. Clone the Repository: Clone the project repository to your local development environment using the following command:
+git clone https://github.com/Asif-748/TourX.git
+
+2. Run the command as adminstrator:
 npm install
-If you encounter any issues, try using the force flag:
+
+3. If you encounter any issues, try using the force flag:
 npm install -force
-Run the project: Start the development server with the following command:
+
+4. Run the project: Start the development server with the following command:
 npm run dev
-Open in Browser: Once the server starts, open your browser and navigate to:
+
+5. Open in Browser: Once the server starts, open your browser and navigate to:
 http://localhost:5173
